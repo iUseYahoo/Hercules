@@ -1,20 +1,5 @@
 import sys, time, requests
 
-"""
-Task: 0002-PG
-Priority: Medium
-Deadline: 2023-10-15
-Task Given To: @Altorx @Morpheus 
-Task Given By: @I2rys 
-Programming Language (s) Scope: Python, NodeJS
-Task (s): Make a tool to find all params, API endpoints on a website including external ones (Recursive. If you can).
-
-Date of make: 20/10/2023 (DD/MM/YY) late by: 5 days
-I will be using python for this.
-
-- Fuck Morpheus
-"""
-
 class color:
     end = '\033[0m'
     bold = '\033[1m'
@@ -177,6 +162,3 @@ if asktosave == "y":
 
 log("+", "Exiting")
 exit()
-
-# Made by Altorx
-# Fuck you Morpheus
